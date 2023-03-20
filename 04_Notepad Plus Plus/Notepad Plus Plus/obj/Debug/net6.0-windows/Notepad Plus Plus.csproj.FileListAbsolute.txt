@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\Notepad Plus Plus\Notepad Plus Plus\bin\Debug\net6.0-windows\Notepad Plus Plus.exe
+C:\Users\Admin\source\repos\Notepad Plus Plus\Notepad Plus Plus\bin\Debug\net6.0-windows\Notepad Plus Plus.deps.json
+C:\Users\Admin\source\repos\Notepad Plus Plus\Notepad Plus Plus\bin\Debug\net6.0-windows\Notepad Plus Plus.runtimeconfig.json
+C:\Users\Admin\source\repos\Notepad Plus Plus\Notepad Plus Plus\bin\Debug\net6.0-windows\Notepad Plus Plus.dll
+C:\Users\Admin\source\repos\Notepad Plus Plus\Notepad Plus Plus\bin\Debug\net6.0-windows\Notepad Plus Plus.pdb
+C:\Users\Admin\source\repos\Notepad Plus Plus\Notepad Plus Plus\obj\Debug\net6.0-windows\Notepad Plus Plus.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Notepad Plus Plus\Notepad Plus Plus\obj\Debug\net6.0-windows\Notepad_Plus_Plus.Form1.resources
+C:\Users\Admin\source\repos\Notepad Plus Plus\Notepad Plus Plus\obj\Debug\net6.0-windows\Notepad Plus Plus.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Notepad Plus Plus\Notepad Plus Plus\obj\Debug\net6.0-windows\Notepad Plus Plus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Notepad Plus Plus\Notepad Plus Plus\obj\Debug\net6.0-windows\Notepad Plus Plus.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Notepad Plus Plus\Notepad Plus Plus\obj\Debug\net6.0-windows\Notepad Plus Plus.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Notepad Plus Plus\Notepad Plus Plus\obj\Debug\net6.0-windows\Notepad Plus Plus.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Notepad Plus Plus\Notepad Plus Plus\obj\Debug\net6.0-windows\Notepad Plus Plus.dll
+C:\Users\Admin\source\repos\Notepad Plus Plus\Notepad Plus Plus\obj\Debug\net6.0-windows\refint\Notepad Plus Plus.dll
+C:\Users\Admin\source\repos\Notepad Plus Plus\Notepad Plus Plus\obj\Debug\net6.0-windows\Notepad Plus Plus.pdb
+C:\Users\Admin\source\repos\Notepad Plus Plus\Notepad Plus Plus\obj\Debug\net6.0-windows\Notepad Plus Plus.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Notepad Plus Plus\Notepad Plus Plus\obj\Debug\net6.0-windows\ref\Notepad Plus Plus.dll
