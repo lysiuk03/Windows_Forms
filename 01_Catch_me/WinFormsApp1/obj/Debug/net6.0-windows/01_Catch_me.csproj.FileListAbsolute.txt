@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\01_Catch_me\WinFormsApp1\bin\Debug\net6.0-windows\01_Catch_me.exe
+C:\Users\Admin\Desktop\01_Catch_me\WinFormsApp1\bin\Debug\net6.0-windows\01_Catch_me.deps.json
+C:\Users\Admin\Desktop\01_Catch_me\WinFormsApp1\bin\Debug\net6.0-windows\01_Catch_me.runtimeconfig.json
+C:\Users\Admin\Desktop\01_Catch_me\WinFormsApp1\bin\Debug\net6.0-windows\01_Catch_me.dll
+C:\Users\Admin\Desktop\01_Catch_me\WinFormsApp1\bin\Debug\net6.0-windows\01_Catch_me.pdb
+C:\Users\Admin\Desktop\01_Catch_me\WinFormsApp1\obj\Debug\net6.0-windows\01_Catch_me.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\01_Catch_me\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Admin\Desktop\01_Catch_me\WinFormsApp1\obj\Debug\net6.0-windows\01_Catch_me.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\01_Catch_me\WinFormsApp1\obj\Debug\net6.0-windows\01_Catch_me.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\01_Catch_me\WinFormsApp1\obj\Debug\net6.0-windows\01_Catch_me.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\01_Catch_me\WinFormsApp1\obj\Debug\net6.0-windows\01_Catch_me.AssemblyInfo.cs
+C:\Users\Admin\Desktop\01_Catch_me\WinFormsApp1\obj\Debug\net6.0-windows\01_Catch_me.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\01_Catch_me\WinFormsApp1\obj\Debug\net6.0-windows\01_Catch_me.dll
+C:\Users\Admin\Desktop\01_Catch_me\WinFormsApp1\obj\Debug\net6.0-windows\refint\01_Catch_me.dll
+C:\Users\Admin\Desktop\01_Catch_me\WinFormsApp1\obj\Debug\net6.0-windows\01_Catch_me.pdb
+C:\Users\Admin\Desktop\01_Catch_me\WinFormsApp1\obj\Debug\net6.0-windows\01_Catch_me.genruntimeconfig.cache
+C:\Users\Admin\Desktop\01_Catch_me\WinFormsApp1\obj\Debug\net6.0-windows\ref\01_Catch_me.dll
