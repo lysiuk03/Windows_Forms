@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\02_Guess_the_number\WinFormsApp2\bin\Debug\net6.0-windows\02_Guess_the_number.exe
+C:\Users\Admin\Desktop\02_Guess_the_number\WinFormsApp2\bin\Debug\net6.0-windows\02_Guess_the_number.deps.json
+C:\Users\Admin\Desktop\02_Guess_the_number\WinFormsApp2\bin\Debug\net6.0-windows\02_Guess_the_number.runtimeconfig.json
+C:\Users\Admin\Desktop\02_Guess_the_number\WinFormsApp2\bin\Debug\net6.0-windows\02_Guess_the_number.dll
+C:\Users\Admin\Desktop\02_Guess_the_number\WinFormsApp2\bin\Debug\net6.0-windows\02_Guess_the_number.pdb
+C:\Users\Admin\Desktop\02_Guess_the_number\WinFormsApp2\obj\Debug\net6.0-windows\02_Guess_the_number.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\02_Guess_the_number\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Form1.resources
+C:\Users\Admin\Desktop\02_Guess_the_number\WinFormsApp2\obj\Debug\net6.0-windows\02_Guess_the_number.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\02_Guess_the_number\WinFormsApp2\obj\Debug\net6.0-windows\02_Guess_the_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\02_Guess_the_number\WinFormsApp2\obj\Debug\net6.0-windows\02_Guess_the_number.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\02_Guess_the_number\WinFormsApp2\obj\Debug\net6.0-windows\02_Guess_the_number.AssemblyInfo.cs
+C:\Users\Admin\Desktop\02_Guess_the_number\WinFormsApp2\obj\Debug\net6.0-windows\02_Guess_the_number.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\02_Guess_the_number\WinFormsApp2\obj\Debug\net6.0-windows\02_Guess_the_number.dll
+C:\Users\Admin\Desktop\02_Guess_the_number\WinFormsApp2\obj\Debug\net6.0-windows\refint\02_Guess_the_number.dll
+C:\Users\Admin\Desktop\02_Guess_the_number\WinFormsApp2\obj\Debug\net6.0-windows\02_Guess_the_number.pdb
+C:\Users\Admin\Desktop\02_Guess_the_number\WinFormsApp2\obj\Debug\net6.0-windows\02_Guess_the_number.genruntimeconfig.cache
+C:\Users\Admin\Desktop\02_Guess_the_number\WinFormsApp2\obj\Debug\net6.0-windows\ref\02_Guess_the_number.dll
