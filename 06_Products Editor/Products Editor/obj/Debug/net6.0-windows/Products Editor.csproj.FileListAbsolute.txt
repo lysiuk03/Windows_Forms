@@ -1,0 +1,18 @@
+C:\Users\Admin\source\repos\Products Editor\Products Editor\bin\Debug\net6.0-windows\Products Editor.exe
+C:\Users\Admin\source\repos\Products Editor\Products Editor\bin\Debug\net6.0-windows\Products Editor.deps.json
+C:\Users\Admin\source\repos\Products Editor\Products Editor\bin\Debug\net6.0-windows\Products Editor.runtimeconfig.json
+C:\Users\Admin\source\repos\Products Editor\Products Editor\bin\Debug\net6.0-windows\Products Editor.dll
+C:\Users\Admin\source\repos\Products Editor\Products Editor\bin\Debug\net6.0-windows\Products Editor.pdb
+C:\Users\Admin\source\repos\Products Editor\Products Editor\obj\Debug\net6.0-windows\Products Editor.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Products Editor\Products Editor\obj\Debug\net6.0-windows\Products_Editor.Form1.resources
+C:\Users\Admin\source\repos\Products Editor\Products Editor\obj\Debug\net6.0-windows\Products_Editor.Form2.resources
+C:\Users\Admin\source\repos\Products Editor\Products Editor\obj\Debug\net6.0-windows\Products Editor.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Products Editor\Products Editor\obj\Debug\net6.0-windows\Products Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Products Editor\Products Editor\obj\Debug\net6.0-windows\Products Editor.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Products Editor\Products Editor\obj\Debug\net6.0-windows\Products Editor.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Products Editor\Products Editor\obj\Debug\net6.0-windows\Products Editor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Products Editor\Products Editor\obj\Debug\net6.0-windows\Products Editor.dll
+C:\Users\Admin\source\repos\Products Editor\Products Editor\obj\Debug\net6.0-windows\refint\Products Editor.dll
+C:\Users\Admin\source\repos\Products Editor\Products Editor\obj\Debug\net6.0-windows\Products Editor.pdb
+C:\Users\Admin\source\repos\Products Editor\Products Editor\obj\Debug\net6.0-windows\Products Editor.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Products Editor\Products Editor\obj\Debug\net6.0-windows\ref\Products Editor.dll
